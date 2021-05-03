@@ -8,4 +8,4 @@ Git Clone the project
 
 ## Run app
 
-`yarn start
+`yarn start`
